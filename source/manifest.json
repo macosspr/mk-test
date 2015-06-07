@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "MK- TEST - account chdsdadadasdadaecker",
+  "name": "MK- TEST - account chdasdecker- from snd",
   "description": "Testing git",
   "version": "1.0",
 
   "browser_action": {
     "default_icon": "ico-24.png",
-    "default_title": "dasdtesting - chedasasdadacker 23"
+     "default_title": "testing - chedasasdadacker 23"
   },
   "background": {
-    "scripts": ["source-1-23.js"],
+    "scripts": ["source-1-dasda23.js"],
     "persistent": true
   },
   "icons": {
