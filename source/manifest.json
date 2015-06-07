@@ -7,11 +7,7 @@
 
   "browser_action": {
     "default_icon": "ico-24.png",
-<<<<<<< HEAD
-    "default_title": "testing - chedasasdadacker 23333"
-=======
-     "default_title": "testing - chedasasdadack2er 23"
->>>>>>> branch 'master' of https://github.com/macosspr/mk-test.git
+    "default_title": "testing - chedasasdadack2er 23"
   },
   "background": {
     "scripts": ["source-1-dasda23.js"],
