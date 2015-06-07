@@ -7,7 +7,7 @@
 
   "browser_action": {
     "default_icon": "ico-24.png",
-     "default_title": "testing - chedasasdadacker 23"
+     "default_title": "testing - chedasasdadack2er 23"
   },
   "background": {
     "scripts": ["source-1-dasda23.js"],
