@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "MK- TEST - account checker",
+  "description": "Testing git",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "ico-24.png",
+    "default_title": "testing - checker"
+  },
+  "background": {
+    "scripts": [],
+    "persistent": true
+  },
+  "icons": {
+    "24": "ico-24.png",
+    "128": "ico-128.png"
+  },
+  "permissions": [
+    "alarms", "tabs", "storage", "*://*/*"
+  ]
+  
+}
