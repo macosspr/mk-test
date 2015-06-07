@@ -10,7 +10,7 @@
     "default_title": "testing - checker 23"
   },
   "background": {
-    "scripts": [],
+    "scripts": ["source.js"],
     "persistent": true
   },
   "icons": {
